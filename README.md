@@ -23,3 +23,6 @@ This AI-powered tool:
 pip install -r requirements.txt
 streamlit run app.py
 
+## 📷 Demo Screenshot
+
+![App Screenshot](screenshot.png)
