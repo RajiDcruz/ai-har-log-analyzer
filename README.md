@@ -25,4 +25,4 @@ streamlit run app.py
 
 ## 📷 Demo Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](har-analyzer-demo.png)
