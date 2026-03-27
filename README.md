@@ -1,24 +1,27 @@
 # ai-har-log-analyzer
-# 🚀 AI HAR Log Analyzer Pro
+# AI HAR Log Analyzer Pro
 
-## 📌 Problem
+## Problem
 Analyzing HAR logs manually is time-consuming and complex.
 
-## 💡 Solution
+## Solution
 This AI-powered tool:
 - Detects API errors
 - Identifies slow requests
 - Visualizes data
 - Generates AI-based insights
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - OpenAI API
 - Pandas, Matplotlib
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+![Uploading image.png…]()
+
