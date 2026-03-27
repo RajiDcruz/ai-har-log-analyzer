@@ -26,4 +26,4 @@ streamlit run app.py
 ```markdown
 ## 📷 Demo Screenshot
 
-![App Screenshot](images/har-analyzer-demo.png)
+![App Screenshot](har-analyzer-demo.png)
