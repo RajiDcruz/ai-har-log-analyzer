@@ -23,5 +23,3 @@ This AI-powered tool:
 pip install -r requirements.txt
 streamlit run app.py
 
-![Uploading image.png…]()
-
