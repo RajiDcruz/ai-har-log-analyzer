@@ -23,6 +23,7 @@ This AI-powered tool:
 pip install -r requirements.txt
 streamlit run app.py
 
+```markdown
 ## 📷 Demo Screenshot
 
-![App Screenshot](har-analyzer-demo.png)
+![App Screenshot](images/har-analyzer-demo.png)
